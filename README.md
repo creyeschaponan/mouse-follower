@@ -4,7 +4,7 @@
 
 ## Captura de Pantalla
 
-![Mouse Follower Screenshot](public/screenshot.png)
+![Mouse Follower Screenshot](public/screenshot.jpg)
 
 ## Características
 
